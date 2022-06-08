@@ -1,0 +1,27 @@
+id: IFC656981
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T13:34:56+00:00'
+last_modified: '2022-06-08T10:48:16.417674+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W20241
+  title: བོད་ཀྱི་ལོ་རྒྱུས་དཔེ་ཐོ
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+  base:
+    190E:
+      image_group_id: I1PD334
+      title: ''
+      total_pages: 550
+      order: 1
+      base_file: 190E.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
